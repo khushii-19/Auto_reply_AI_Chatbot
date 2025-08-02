@@ -37,10 +37,6 @@ Install Dependencies
 pip install pyautogui pyperclip google-generativeai
 3. Set Your Gemini API Key
 
-Replace the key in your script:
-genai.configure(api_key="your_gemini_api_key_here")
-⚠️ Keep your Gemini API key private and secure.
-
 4. Open WhatsApp Web
 Use Microsoft Edge (preferred)
 
